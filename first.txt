@@ -1,2 +1,4 @@
 practice git
 change the text file
+・learn git add
+・learn git commit
