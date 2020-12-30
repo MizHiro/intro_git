@@ -4,3 +4,4 @@ change the text file
 ・git commit
 ・git rm
 ・git status
+・git diff
